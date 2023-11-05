@@ -8,6 +8,5 @@
 
 - Email: rohanvenkatesha@gmail.com
 - LinkedIn: www.linkedin.com/in/rohan-venkatesha
-- GitHub: [Your GitHub Profile]
 
 I'm looking forward to connecting with like-minded individuals and organizations who share my passion for software development and the ever-evolving world of technology. Let's build amazing solutions together!
