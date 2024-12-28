@@ -121,6 +121,9 @@ I’m particularly interested in collaborating with teams that focus on microser
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<img align="right" alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
+
 ---
 
 ## 📚 **Let's Connect**:
