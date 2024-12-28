@@ -1,4 +1,4 @@
-### 💫 About Me:
+## 💫 About Me:
 👋 **Hi there! I’m Rohan Venkatesha**, a **Senior Software Engineer** and a **Master’s student in Computer Science** at **Western Michigan University**. With a strong background in **backend development**, **cloud computing**, and **DevOps**, I’m passionate about building scalable and efficient software solutions. I have over 5 years of experience across multiple domains, having contributed to projects involving **retail software**, **cloud infrastructure**, and **automation systems**.
 
 I’ve worked with renowned companies such as **Adetrez Labs** and **Infosys Limited**, where I led projects to improve system performance, automate workflows, and deliver impactful solutions that have saved costs and improved operational efficiency. My expertise spans **Python**, **C/C++**, **SQL**, **Docker**, **Kubernetes**, **AWS**, and **Google Cloud**, and I’m always excited to explore new technologies and methods to solve real-world challenges.
@@ -7,14 +7,14 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-### 🌐 **Socials**:
+## 🌐 **Socials**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
 
 ---
 
-### 💻 **Tech Stack**:
-## Languages:
+## 💻 **Tech Stack**:
+### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -28,7 +28,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## Technologies & Tools:
+### Technologies & Tools:
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
@@ -40,7 +40,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007396.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
-## Key Skills & Techniques:
+### Key Skills & Techniques:
 ![API Development](https://img.shields.io/badge/API%20Development-%23FF5722.svg?style=for-the-badge&logo=api&logoColor=white) 
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%2300C1D4.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/Microservices-%23E11D21.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -56,7 +56,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-### 🔧 **Professional Experience**:
+## 🔧 **Professional Experience**:
 
 ### Senior Software Engineer  
 **Adetrez Labs, India**  
@@ -93,7 +93,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-### 💼 **Notable Projects**:
+## 💼 **Notable Projects**:
 
 - **License Plate Detection and Recognition System**  
   *Technologies: YOLOv5, PaddleOCR, OpenCV*  
@@ -109,26 +109,26 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-### 🏆 **Awards & Recognition**:
+## 🏆 **Awards & Recognition**:
 - **Insta Award**: Recognized for exceptional performance at **Infosys Limited**.
 - Developed a **Python-based search handler** for **Amazon Development Center**, reducing access times by **95%** and providing moral support during the **COVID-19 pandemic**.
 
 ---
 
-### 🚀 **My Goals**:
+## 🚀 **My Goals**:
 I am continually seeking opportunities to expand my knowledge and apply my skills in **cloud-based solutions**, **backend systems**, and **DevOps practices**. My goal is to work on large-scale, high-impact projects that leverage emerging technologies, solve complex business problems, and improve operational efficiency.
 
 I’m particularly interested in collaborating with teams that focus on **microservices architecture**, **scalable cloud solutions**, and **cutting-edge software development**.
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 📚 **Let's Connect**:
+## 📚 **Let's Connect**:
 Feel free to explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just want to connect, don’t hesitate to reach out!
 
