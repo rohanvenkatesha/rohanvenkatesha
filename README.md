@@ -1,6 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Rohan Venkatesha </h1>
 <div align="center"> <img src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"> </div>
----
 
 ## 🌐 **Socials**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-venkatesha/) 
