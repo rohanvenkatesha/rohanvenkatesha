@@ -1,4 +1,3 @@
-<h1 align="center">Hey Everyone 👋, I'm Rohan Venkatesha </h1>
 <div align="center"> <img src="Hi I am Rohan Venkatesha Software Engineer_20241228_040050_0000.jpg"> </div>
 
 ## 🌐 **Socials**:
