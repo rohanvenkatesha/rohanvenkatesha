@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"> </div>
 ## 💫 About Me:
 **Hi there! I am Rohan Venkatesha**, a **Senior Software Engineer** and a **Master’s student in Computer Science** at **Western Michigan University**. With a strong background in **backend development**, **cloud computing**, and **DevOps**, I am passionate about building scalable and efficient software solutions. I have over 4 years of experience across multiple domains, having contributed to projects involving **retail software**, **cloud infrastructure**, and **automation systems**.
 
