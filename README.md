@@ -118,7 +118,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ## 🚀 **My Goals**:
 I am continually seeking opportunities to expand my knowledge and apply my skills in **cloud-based solutions**, **backend systems**, and **DevOps practices**. My goal is to work on large-scale, high-impact projects that leverage emerging technologies, solve complex business problems, and improve operational efficiency.
 
-I’m particularly interested in collaborating with teams that focus on **microservices architecture**, **scalable cloud solutions**, and **cutting-edge software development**.
+I’m particularly interested in collaborating with teams that focus on microservices architecture, scalable cloud solutions, and cutting-edge software development.
 
 ---
 
@@ -129,6 +129,12 @@ I’m particularly interested in collaborating with teams that focus on **micros
 
 ---
 
+# 📈 Contributions
+
+![Rohan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohanvenkatesha&theme=github&hide_border=true)
+
+---
+
 ## 📚 **Let's Connect**:
-Feel free to explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just want to connect, don’t hesitate to reach out!
+You can explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just connecting, don’t hesitate to reach out!
 
