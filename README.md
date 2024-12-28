@@ -59,7 +59,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ### 🔧 **Professional Experience**:
 
 ## Senior Software Engineer  
-** ![Adetrez Labs](https://img.shields.io/badge/Adetrez%20Labs-%2300599C.svg?style=for-the-badge&logo=appveyor&logoColor=white)  , India** 
+![Adetrez Labs](https://img.shields.io/badge/Adetrez%20Labs-%2300599C.svg?style=for-the-badge&logo=appveyor&logoColor=white)
 *Aug 2021 – Mar 2023*  
 - Spearheaded retail software projects, achieving 100% on-time delivery, resulting in $30K annual support cost savings and $50K revenue growth.
 - Directed web apps and invoice management services for 50+ clients, serving 100K+ active users monthly, significantly enhancing customer lifetime value.
