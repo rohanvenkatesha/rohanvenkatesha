@@ -105,6 +105,13 @@ I’m particularly interested in collaborating with teams that focus on **micros
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ### 📚 **Let's Connect**:
 Feel free to explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just want to connect, don’t hesitate to reach out!
 
