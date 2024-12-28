@@ -133,6 +133,23 @@ I’m particularly interested in collaborating with teams that focus on microser
 
 ---
 
+## 📊 GitHub Stats:
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+    <td style="border: none; text-align: center; vertical-align: middle;">
+      <img alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📚 **Let's Connect**:
 You can explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just connecting, don’t hesitate to reach out!
 
