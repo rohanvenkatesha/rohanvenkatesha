@@ -58,21 +58,44 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ### 🔧 **Professional Experience**:
 
-#### **Senior Software Engineer** | *Adetrez Labs* | Aug 2021 – Mar 2023
-- Led multiple **retail software projects**, driving **$30K in annual cost savings** and generating **$50K in revenue growth**.
-- Designed and implemented **cloud-based web apps** and **invoice management services**, supporting **50+ clients** and **100K+ active users** monthly.
-- Spearheaded **automated testing pipelines**, improving deployment accuracy and reducing errors by **over 40%**, saving 100+ hours per quarter.
-  
-#### **Systems Engineer** | *Infosys Limited* | Aug 2019 – Apr 2021
-- Automated the **Oracle XStore deployment process** using **Python** and **PowerShell**, reducing setup time from 2 hours to just 4 minutes.
-- Contributed to **software system design** that helped increase **quarterly revenue growth by $300K**.
-- Led **data migration** efforts, improving system reliability by 99% and cutting downtime by 80 hours per project.
+## Senior Software Engineer  
+**Adetrez Labs, India**  
+*Aug 2021 – Mar 2023*  
+![Adetrez Labs](https://img.shields.io/badge/Adetrez%20Labs-%2300599C.svg?style=for-the-badge&logo=appveyor&logoColor=white)  
+- Spearheaded retail software projects, achieving 100% on-time delivery, resulting in $30K annual support cost savings and $50K revenue growth.
+- Directed web apps and invoice management services for 50+ clients, serving 100K+ active users monthly, significantly enhancing customer lifetime value.
+- Designed code reviews and automated testing pipelines, reducing deployment errors and production issues, accelerating timelines, saving 100+ hours per quarter and improving client retention.
 
-#### **Systems Engineer Trainee** | *Infosys Limited* | Jan 2019 – May 2019
-- Improved the performance of the **“Foodzito”** website’s **order management system**, supporting **1M+ concurrent transactions**.
+---
 
-#### **Software Developer Intern** | *Xorail* | Jul 2018 – Nov 2018
-- Developed the **“Employee Attendance and Salary Management” app**, automating HR processes and reducing manual workload by **8 hours weekly**.
+## Systems Engineer  
+**Infosys Limited, India**  
+*Aug 2019 – Apr 2021*  
+![Infosys Limited](https://img.shields.io/badge/Infosys%20Limited-%2300A8E8.svg?style=for-the-badge&logo=infosys&logoColor=white)  
+- Automated Oracle XStore deployment using Python and PowerShell, reducing setup time from 2 hours to 4 minutes, significantly improving operational efficiency.
+- Collaborated on software system design, contributing to increased client success rates and $300K quarterly revenue growth.
+- Enhanced team communication workflows for tracking real-time issues and resolution, minimizing project delays and elevating client feedback scores from 4.0 to 4.8 out of 5.
+- Streamlined legacy data migration with Python, improving reliability by 99% and reducing downtime by 80 hours per project.
+
+---
+
+## Systems Engineer Trainee  
+**Infosys Limited, India**  
+*Jan 2019 – May 2019*  
+![Infosys Limited](https://img.shields.io/badge/Infosys%20Limited-%2300A8E8.svg?style=for-the-badge&logo=infosys&logoColor=white)  
+- Optimized the "Foodzito" website's order management system to handle 1M+ concurrent transactions.
+- Coordinated with training peers to debug issues, improved problem resolution efficiency and increased project throughput by completing 10 additional tasks per month.
+
+---
+
+## Software Developer Intern  
+**Xorail, India**  
+*Jul 2018 – Nov 2018*  
+![Xorail](https://img.shields.io/badge/Xorail-%2300A86B.svg?style=for-the-badge&logo=react&logoColor=white)  
+- Pioneered the "Employee Attendance and Salary Management" app using Python, Flask API, and MySQL, reducing manual work for HR teams by 8 hours weekly.
+- Revamped app performance with Python, eliminating data loss across 1,000+ records.
+
+---
 
 ---
 
