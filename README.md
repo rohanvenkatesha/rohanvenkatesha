@@ -129,12 +129,6 @@ I’m particularly interested in collaborating with teams that focus on microser
 
 ---
 
-# 📈 Contributions
-
-![Rohan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohanvenkatesha&theme=github&hide_border=true)
-
----
-
 ## 📚 **Let's Connect**:
 You can explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just connecting, don’t hesitate to reach out!
 
