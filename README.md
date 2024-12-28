@@ -59,8 +59,8 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ### 🔧 **Professional Experience**:
 
 ## Senior Software Engineer  
-![Adetrez Labs](https://img.shields.io/badge/Adetrez%20Labs-%2300599C.svg?style=for-the-badge&logo=appveyor&logoColor=white)
-**Aug 2021 – Mar 2023**
+**Adetrez Labs, India**  
+*Aug 2021 – Mar 2023*  
 - Spearheaded retail software projects, achieving 100% on-time delivery, resulting in $30K annual support cost savings and $50K revenue growth.
 - Directed web apps and invoice management services for 50+ clients, serving 100K+ active users monthly, significantly enhancing customer lifetime value.
 - Designed code reviews and automated testing pipelines, reducing deployment errors and production issues, accelerating timelines, saving 100+ hours per quarter and improving client retention.
@@ -70,7 +70,6 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ## Systems Engineer  
 **Infosys Limited, India**  
 *Aug 2019 – Apr 2021*  
-![Infosys Limited](https://img.shields.io/badge/Infosys%20Limited-%2300A8E8.svg?style=for-the-badge&logo=infosys&logoColor=white)  
 - Automated Oracle XStore deployment using Python and PowerShell, reducing setup time from 2 hours to 4 minutes, significantly improving operational efficiency.
 - Collaborated on software system design, contributing to increased client success rates and $300K quarterly revenue growth.
 - Enhanced team communication workflows for tracking real-time issues and resolution, minimizing project delays and elevating client feedback scores from 4.0 to 4.8 out of 5.
@@ -81,7 +80,6 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ## Systems Engineer Trainee  
 **Infosys Limited, India**  
 *Jan 2019 – May 2019*  
-![Infosys Limited](https://img.shields.io/badge/Infosys%20Limited-%2300A8E8.svg?style=for-the-badge&logo=infosys&logoColor=white)  
 - Optimized the "Foodzito" website's order management system to handle 1M+ concurrent transactions.
 - Coordinated with training peers to debug issues, improved problem resolution efficiency and increased project throughput by completing 10 additional tasks per month.
 
@@ -90,7 +88,6 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ## Software Developer Intern  
 **Xorail, India**  
 *Jul 2018 – Nov 2018*  
-![Xorail](https://img.shields.io/badge/Xorail-%2300A86B.svg?style=for-the-badge&logo=react&logoColor=white)  
 - Pioneered the "Employee Attendance and Salary Management" app using Python, Flask API, and MySQL, reducing manual work for HR teams by 8 hours weekly.
 - Revamped app performance with Python, eliminating data loss across 1,000+ records.
 
