@@ -1,7 +1,3 @@
-Certainly! Here's an expanded and detailed "About Me" section for your GitHub, using the information from your resume to showcase your skills, experience, and aspirations:
-
----
-
 ### 💫 About Me:
 👋 **Hi there! I’m Rohan Venkatesha**, a **Senior Software Engineer** and a **Master’s student in Computer Science** at **Western Michigan University**. With a strong background in **backend development**, **cloud computing**, and **DevOps**, I’m passionate about building scalable and efficient software solutions. I have over 5 years of experience across multiple domains, having contributed to projects involving **retail software**, **cloud infrastructure**, and **automation systems**.
 
