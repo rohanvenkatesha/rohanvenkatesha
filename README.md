@@ -50,6 +50,23 @@
 
 ---
 
+## 📊 GitHub Stats:
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+    <td style="border: none; text-align: center; vertical-align: middle;">
+      <img alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔧 **Professional Experience**:
 
 ### Senior Software Engineer  
@@ -113,40 +130,6 @@
 I am continually seeking opportunities to expand my knowledge and apply my skills in **cloud-based solutions**, **backend systems**, and **DevOps practices**. My goal is to work on large-scale, high-impact projects that leverage emerging technologies, solve complex business problems, and improve operational efficiency.
 
 I’m particularly interested in collaborating with teams that focus on microservices architecture, scalable cloud solutions, and cutting-edge software development.
-
----
-
-## 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-    </td>
-    <td>
-      <img alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats:
-
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanvenkatesha&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvenkatesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-    </td>
-    <td style="border: none; text-align: center; vertical-align: middle;">
-      <img alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
