@@ -1,13 +1,82 @@
-👋 Hi, I am Rohan Venkatesha, a dynamic and results-driven Senior Software Engineer with 3.5 years of work experience. I specialize in leading high-impact retail software projects, executing complex data migration initiatives, and developing scalable API backends. Leveraging extensive expertise in Python, Pandas, and seamless database integration, I consistently enhance data accuracy and operational performance. At Adetrez Labs, I spearheaded projects that achieved 100% on-time delivery, reduced production issues by 40%, and significantly boosted client retention and satisfaction. My proficiency in API development ensures secure, high-performing systems tailored to diverse client needs. I drive innovation through rigorous code reviews and adherence to quality benchmarks, resulting in a 20% reduction in bug reports and faster deployment cycles. My automation of deployment processes and development of robust software systems have elevated client success and revenue. With a strong foundation in SDLC and Agile methodologies, I am committed to advancing technological solutions and delivering exceptional software outcomes.
+Certainly! Here's an expanded and detailed "About Me" section for your GitHub, using the information from your resume to showcase your skills, experience, and aspirations:
 
-🎓 I am pursuing a master’s in Computer Science from Western Michigan University, graduating in April 2025.
+---
 
-🔍 Explore my projects and contributions on GitHub: https://github.com/rohanvenkatesha
+### 💫 About Me:
+👋 **Hi there! I’m Rohan Venkatesha**, a **Senior Software Engineer** and a **Master’s student in Computer Science** at **Western Michigan University**. With a strong background in **backend development**, **cloud computing**, and **DevOps**, I’m passionate about building scalable and efficient software solutions. I have over 5 years of experience across multiple domains, having contributed to projects involving **retail software**, **cloud infrastructure**, and **automation systems**.
 
-💼 Connect with me on LinkedIn: www.linkedin.com/in/rohan-venkatesha
+I’ve worked with renowned companies such as **Adetrez Labs** and **Infosys Limited**, where I led projects to improve system performance, automate workflows, and deliver impactful solutions that have saved costs and improved operational efficiency. My expertise spans **Python**, **C/C++**, **SQL**, **Docker**, **Kubernetes**, **AWS**, and **Google Cloud**, and I’m always excited to explore new technologies and methods to solve real-world challenges.
 
-📫 If you would like to get in touch with me regarding potential opportunities or collaboration, please feel free to reach out to me through the following channels:
+When I’m not immersed in coding, you can find me diving into **filmmaking**, exploring **photography**, or looking for new ways to combine creativity and technology.
 
-📧 Email: rohanvenkatesha@gmail.com
+---
 
-I look forward to connecting with like-minded individuals and organizations who share my passion for software development and the ever-evolving world of technology. Let us build amazing solutions together!
+### 🌐 **Socials**:
+- [LinkedIn](https://www.linkedin.com/in/rohan-venkatesha)
+- [GitHub](https://github.com/rohanvenkatesha)
+
+---
+
+### 💻 **Tech Stack**:
+- **Languages**: Python (Flask, Django, REST API, NumPy, Pandas, PyTorch, OpenCV), C, C++, JavaScript, PHP, SQL (MySQL, Oracle, SQL Server)
+- **Tools & Frameworks**: Docker, Kubernetes, Jenkins, Git, GitHub, JIRA, Visual Studio, Google Colab
+- **Cloud**: AWS (S3, CLI), Google Cloud Platform (GCP)
+- **Other**: Microservices Architecture, CI/CD, Agile, System Architecture, DevOps, API Development, Code Review & Mentorship, Design Patterns
+
+---
+
+### 🔧 **Professional Experience**:
+
+#### **Senior Software Engineer** | *Adetrez Labs* | Aug 2021 – Mar 2023
+- Led multiple **retail software projects**, driving **$30K in annual cost savings** and generating **$50K in revenue growth**.
+- Designed and implemented **cloud-based web apps** and **invoice management services**, supporting **50+ clients** and **100K+ active users** monthly.
+- Spearheaded **automated testing pipelines**, improving deployment accuracy and reducing errors by **over 40%**, saving 100+ hours per quarter.
+  
+#### **Systems Engineer** | *Infosys Limited* | Aug 2019 – Apr 2021
+- Automated the **Oracle XStore deployment process** using **Python** and **PowerShell**, reducing setup time from 2 hours to just 4 minutes.
+- Contributed to **software system design** that helped increase **quarterly revenue growth by $300K**.
+- Led **data migration** efforts, improving system reliability by 99% and cutting downtime by 80 hours per project.
+
+#### **Systems Engineer Trainee** | *Infosys Limited* | Jan 2019 – May 2019
+- Improved the performance of the **“Foodzito”** website’s **order management system**, supporting **1M+ concurrent transactions**.
+
+#### **Software Developer Intern** | *Xorail* | Jul 2018 – Nov 2018
+- Developed the **“Employee Attendance and Salary Management” app**, automating HR processes and reducing manual workload by **8 hours weekly**.
+
+---
+
+### 💼 **Notable Projects**:
+
+- **License Plate Detection and Recognition System**  
+  *Technologies: YOLOv5, PaddleOCR, OpenCV*  
+  Built a system for detecting and recognizing license plates at gas stations and parking lots. The solution integrated **YOLOv5** for object detection and **PaddleOCR** for optical character recognition, significantly improving automation and security.
+
+- **Retrieval Augmented Generation Chatbot**  
+  *Technologies: Gemma, Gemini, PDFMiner*  
+  Created a chatbot that utilizes **Gemma** and **Gemini** models to analyze PDFs and images, providing automated summarization and answering content-based queries.
+
+- **Lexer and Parser for Cminus Programming Language**  
+  *Technologies: Python, Ply, Lex, Yacc*  
+  Developed a lexical analyzer and parser for the **Cminus programming language**, enabling efficient parsing and Abstract Syntax Tree (AST) generation for compiler design.
+
+---
+
+### 🏆 **Awards & Recognition**:
+- **Insta Award**: Recognized for exceptional performance at **Infosys Limited**.
+- Developed a **Python-based search handler** for **Amazon Development Center**, reducing access times by **95%** and providing moral support during the **COVID-19 pandemic**.
+
+---
+
+### 🚀 **My Goals**:
+I am continually seeking opportunities to expand my knowledge and apply my skills in **cloud-based solutions**, **backend systems**, and **DevOps practices**. My goal is to work on large-scale, high-impact projects that leverage emerging technologies, solve complex business problems, and improve operational efficiency.
+
+I’m particularly interested in collaborating with teams that focus on **microservices architecture**, **scalable cloud solutions**, and **cutting-edge software development**.
+
+---
+
+### 📚 **Let's Connect**:
+Feel free to explore my GitHub repositories to see the code behind my projects. If you’re interested in collaborating, discussing software solutions, or just want to connect, don’t hesitate to reach out!
+
+---
+
+This version of your "About Me" section is a more detailed and professional presentation of your skills, experience, and aspirations, leveraging the content from your resume. It highlights both your technical abilities and your personal touch, making it ideal for GitHub or any professional platform. Let me know if you’d like any further adjustments!
