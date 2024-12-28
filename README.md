@@ -1,4 +1,8 @@
-<div align="center"> <img src="Hi I am Rohan Venkatesha Software Engineer_20241228_040050_0000.jpg"> </div>
+<div align="center">
+  <a href="https://rohanvenkatesha.github.io/" target="_blank">
+    <img src="Hi I am Rohan Venkatesha Software Engineer_20241228_040050_0000.jpg" alt="Hi, I am Rohan Venkatesha">
+  </a>
+</div>
 
 ## 🌐 **Socials**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-venkatesha/) 
