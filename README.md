@@ -14,10 +14,45 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 ---
 
 ### 💻 **Tech Stack**:
-- **Languages**: Python (Flask, Django, REST API, NumPy, Pandas, PyTorch, OpenCV), C, C++, JavaScript, PHP, SQL (MySQL, Oracle, SQL Server)
-- **Tools & Frameworks**: Docker, Kubernetes, Jenkins, Git, GitHub, JIRA, Visual Studio, Google Colab
-- **Cloud**: AWS (S3, CLI), Google Cloud Platform (GCP)
-- **Other**: Microservices Architecture, CI/CD, Agile, System Architecture, DevOps, API Development, Code Review & Mentorship, Design Patterns
+## Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Shell](https://img.shields.io/badge/shell-%231D6D3B.svg?style=for-the-badge&logo=gnubash&logoColor=white) 
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%2378C1F2.svg?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## Technologies & Tools:
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![JIRA](https://img.shields.io/badge/jira-%23000544.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007396.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+
+## Key Skills & Techniques:
+![API Development](https://img.shields.io/badge/API%20Development-%23FF5722.svg?style=for-the-badge&logo=api&logoColor=white) 
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%2300C1D4.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-%23E11D21.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![DevOps](https://img.shields.io/badge/DevOps-%230F1C50.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%2344A0F4.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![SDLC](https://img.shields.io/badge/SDLC-%231664F6.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![Agile](https://img.shields.io/badge/Agile-%23FFB300.svg?style=for-the-badge&logo=atlassian&logoColor=white) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23F29C11.svg?style=for-the-badge&logo=java&logoColor=white) 
+![System Architecture](https://img.shields.io/badge/System%20Architecture-%234B76A8.svg?style=for-the-badge&logo=aws&logoColor=white) 
+![Code Review](https://img.shields.io/badge/Code%20Review-%232A6D3F.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Mentorship](https://img.shields.io/badge/Mentorship-%23D50032.svg?style=for-the-badge&logo=people&logoColor=white)
+
 
 ---
 
