@@ -1,12 +1,5 @@
+<h1 align="center">Hey Everyone 👋, I'm Rohan Venkatesha </h1>
 <div align="center"> <img src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"> </div>
----
-## 💫 About Me:
-**Hi there! I am Rohan Venkatesha**, a **Senior Software Engineer** and a **Master’s student in Computer Science** at **Western Michigan University**. With a strong background in **backend development**, **cloud computing**, and **DevOps**, I am passionate about building scalable and efficient software solutions. I have over 4 years of experience across multiple domains, having contributed to projects involving **retail software**, **cloud infrastructure**, and **automation systems**.
-
-I’ve worked with renowned companies such as **Adetrez Labs** and **Infosys Limited**, where I led projects to improve system performance, automate workflows, and deliver impactful solutions that have saved costs and improved operational efficiency. My expertise spans **Python**, **C/C++**, **SQL**, **Docker**, **Kubernetes**, **AWS**, and **Google Cloud**, and I’m always excited to explore new technologies and methods to solve real-world challenges.
-
-When I’m not immersed in coding, you can find me diving into **filmmaking**, exploring **photography**, or looking for new ways to combine creativity and technology.
-
 ---
 
 ## 🌐 **Socials**:
