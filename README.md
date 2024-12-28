@@ -58,7 +58,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ### 🔧 **Professional Experience**:
 
-## Senior Software Engineer  
+### Senior Software Engineer  
 **Adetrez Labs, India**  
 *Aug 2021 – Mar 2023*  
 - Spearheaded retail software projects, achieving 100% on-time delivery, resulting in $30K annual support cost savings and $50K revenue growth.
@@ -67,7 +67,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-## Systems Engineer  
+### Systems Engineer  
 **Infosys Limited, India**  
 *Aug 2019 – Apr 2021*  
 - Automated Oracle XStore deployment using Python and PowerShell, reducing setup time from 2 hours to 4 minutes, significantly improving operational efficiency.
@@ -77,7 +77,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-## Systems Engineer Trainee  
+### Systems Engineer Trainee  
 **Infosys Limited, India**  
 *Jan 2019 – May 2019*  
 - Optimized the "Foodzito" website's order management system to handle 1M+ concurrent transactions.
@@ -85,7 +85,7 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
-## Software Developer Intern  
+### Software Developer Intern  
 **Xorail, India**  
 *Jul 2018 – Nov 2018*  
 - Pioneered the "Employee Attendance and Salary Management" app using Python, Flask API, and MySQL, reducing manual work for HR teams by 8 hours weekly.
