@@ -97,8 +97,6 @@ When I’m not immersed in coding, you can find me diving into **filmmaking**, e
 
 ---
 
----
-
 ### 💼 **Notable Projects**:
 
 - **License Plate Detection and Recognition System**  
