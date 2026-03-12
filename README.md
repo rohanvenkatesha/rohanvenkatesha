@@ -74,7 +74,7 @@
   <tr>
     <td>
       <h3>🔝 Top Contributed Repo</h3>
-      ![Stats](https://github-contributor-stats.vercel.app/api?username=rohanvenkatesha)
+      <img src="https://github-contributor-stats.vercel.app/api?username=rohanvenkatesha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats"/>
     </td>
     <td>
       <img alt="Coding" width="400" src="https://github.com/rohanvenkatesha/rohanvenkatesha/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
